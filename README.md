@@ -22,6 +22,7 @@
 * [Microsoft Bot Framework](https://dev.botframework.com/)
 * [BotFramework Emulator](https://github.com/Microsoft/BotFramework-Emulator/releases/)
 * [NuGet Face API](https://www.nuget.org/packages/Microsoft.ProjectOxford.Face/)
+* [Slides of master class](https://www.slideshare.net/ssuser147b88/ss-83742507)
 
 ### Установка шаблона бота
 Скачайте файлы [Bot Application](http://aka.ms/bf-bc-vstemplate), [Bot Controller](http://aka.ms/bf-bc-vscontrollertemplate), и [Bot Dialog](http://aka.ms/bf-bc-vsdialogtemplate).
